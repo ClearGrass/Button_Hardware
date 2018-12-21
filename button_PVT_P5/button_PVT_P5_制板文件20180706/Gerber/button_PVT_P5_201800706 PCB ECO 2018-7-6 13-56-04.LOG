@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VOUT Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=BUTTON Pin=D1-1
+Removed Pin From Net: NetName=BUTTON Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=VOUT Pin=Q2-3
+Removed Pin From Net: NetName=PWR_ON Pin=R54-2
+Removed Pin From Net: NetName=PWR_ON Pin=R70-1
+Removed Pin From Net: NetName=GND Pin=R70-2
+Removed Member From Class: ClassName=button_peripheral Member=C30
+Removed Member From Class: ClassName=button_peripheral Member=C33
+Removed Member From Class: ClassName=button_peripheral Member=D1
+Removed Member From Class: ClassName=button_peripheral Member=D2
+Removed Member From Class: ClassName=button_peripheral Member=Q1
+Removed Member From Class: ClassName=button_peripheral Member=Q2
+Removed Member From Class: ClassName=button_peripheral Member=R54
+Removed Member From Class: ClassName=button_peripheral Member=R58
+Removed Member From Class: ClassName=button_peripheral Member=R70
+Added Pin To Net: NetName=VOUT Pin=C90-1
+Added Pin To Net: NetName=VOUT Pin=C91-1
+Added Pin To Net: NetName=VOUT Pin=F1-1
+Added Pin To Net: NetName=BUTTON Pin=U6-16
+Change Net Name : Old Net Name=BUTTON New Net Name=KEY_DET
+Change Net Name : Old Net Name=VOUT New Net Name=VBUS

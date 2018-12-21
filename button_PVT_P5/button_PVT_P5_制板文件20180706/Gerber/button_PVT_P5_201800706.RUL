@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: D:\My Project\Button\button_PVT_P5\button_PVT_P5_201800706.PcbDoc
+RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Polygon_ANT|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.90
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
